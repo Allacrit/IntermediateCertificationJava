@@ -1,4 +1,7 @@
-package org.example;
+package org.example.model;
+
+import org.example.PrizeToys;
+import org.example.ToyBox;
 
 public class Model {
     private ToyBox currentToyBox;

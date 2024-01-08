@@ -1,4 +1,8 @@
-package org.example;
+package org.example.presenter;
+
+import org.example.Toy;
+import org.example.model.Model;
+import org.example.view.ConsoleView;
 
 public class Presenter {
 

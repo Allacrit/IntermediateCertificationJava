@@ -1,5 +1,9 @@
 package org.example;
 
+import org.example.model.Model;
+import org.example.presenter.Presenter;
+import org.example.view.ConsoleView;
+
 public class App {
 
     static ConsoleView view = new ConsoleView();

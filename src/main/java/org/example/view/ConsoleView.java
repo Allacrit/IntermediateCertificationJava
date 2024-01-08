@@ -1,4 +1,4 @@
-package org.example;
+package org.example.view;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;

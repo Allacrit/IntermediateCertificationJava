@@ -1,4 +1,4 @@
-package org.example;
+package org.example.view;
 public interface View {
     String getToyName();
     int getToyProbability();
